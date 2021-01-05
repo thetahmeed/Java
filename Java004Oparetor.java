@@ -15,3 +15,15 @@ public class Main {
 // ++	Increment	Increases the value of a variable by 1	++x	
 // --	Decrement	Decreases the value of a variable by 1	--x
 
+// More Pro:
+// =	x = 5	x = 5	
+// +=	x += 3	x = x + 3	
+// -=	x -= 3	x = x - 3	
+// // *=	x *= 3	x = x * 3	
+// /=	x /= 3	x = x / 3	
+// %=	x %= 3	x = x % 3	
+// &=	x &= 3	x = x & 3	
+// |=	x |= 3	x = x | 3	
+// ^=	x ^= 3	x = x ^ 3	
+// >>=	x >>= 3	x = x >> 3	
+// <<=	x <<= 3	x = x << 3
